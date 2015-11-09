@@ -1,0 +1,15 @@
+Package: com.virenmohindra.VMTheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <you@example.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs//com.virenmohindra.vmtheme_1.0_iphoneos-arm.deb
+Size: 20170268
+MD5sum: e5a5465c033b3966c8ecb24e2cb5c81d
+SHA1: c45036e4888b2cf0514f7e233f9fb23a37692459
+SHA256: a4e1e783cf2e6848db867f230312cd7648ff6d2b2b971da60594651fa4ec0ef3
+Section: Themes (Springboard)
+Description: a simple winterboard theme
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: VMTheme
+
