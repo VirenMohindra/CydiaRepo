@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.rainbow-8
+Name: Rainbow 8 - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/gabe-nick
+Depiction: http://virenmohindra.github.io/depictions/Rainbow 8
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

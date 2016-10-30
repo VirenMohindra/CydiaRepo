@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <title>Addon Changelog</title>
+    <link rel="stylesheet" href="../_css/cydia.min.css">
+  </head>
+    <body>
+      <header>
+        <h1>Changelog</h1>
+      </header>
+        <main id="content">
+          <h2>Changelog</h2>
+        <ul>
+          <li>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+          </li>
+          <li>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+          </li>
+          <li>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+          </li>
+          <li>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+          </li>
+          <li>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+          </li>
+        </ul>
+      </main>
+  </body>
+</html>

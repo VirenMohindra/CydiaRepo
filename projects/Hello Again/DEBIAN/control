@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.hello-again
+Name: Hello Again - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/Steve-luo
+Depiction: http://virenmohindra.github.io/depictions/Hello Again
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

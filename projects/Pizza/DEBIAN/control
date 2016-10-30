@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.pizza
+Name: Pizza - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. [540x960]
+Depiction: http://virenmohindra.github.io/depictions/Pizza
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

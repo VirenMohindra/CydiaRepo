@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.stay-in-lane
+Name: Stay In Lane - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy
+Depiction: http://virenmohindra.github.io/depictions/Stay In Lane
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

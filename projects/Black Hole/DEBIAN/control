@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.black-hole
+Name: Black Hole - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy.
+Depiction: http://virenmohindra.github.io/depictions/Black Hole
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

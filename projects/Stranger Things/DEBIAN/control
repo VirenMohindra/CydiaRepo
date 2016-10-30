@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.stranger-things
+Name: Stranger Things - Springy BootLogo (DankerThings)
+Depends: com.aditkamath.springy
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/kingwill22
+Depiction: http://virenmohindra.github.io/depictions/Stranger Things
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

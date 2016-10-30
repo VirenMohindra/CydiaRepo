@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.gamecube-logo
+Name: Gamecube Logo - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/CherryYums
+Depiction: http://virenmohindra.github.io/depictions/Gamecube Logo
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)
